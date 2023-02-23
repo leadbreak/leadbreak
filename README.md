@@ -6,8 +6,9 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "안녕하세요, 상상하고 만들어내는 동Q라고 합니다!</li> 단순히 인공지능을 단순히 기술적으로만 개발하는 것이 아닌,</li> 사용자로 하여금 최대한의 편익을 느낄 수 있도록 기획하고 구현해, 완성해내는 것에 보람을 느끼며,</li> 기획안 작성 및 개발부터 목표 설정, 일정 관리 및 조정, 문서 작성, 그리고 프로토 서비스 제작까지의</li> 과정에 대한 경험과 강점을 지니고 있습니다." </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> 
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
@@ -24,9 +25,11 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> <a href=https://qscar.notion.site/Q-d6514526a833470ebc2dc9603439ef22> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://qscar.notion.site/Q-d6514526a833470ebc2dc9603439ef22"> </a>
          <a href=https://thebeworld.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://thebeworld.tistory.com/"> </a>
          <a href=https://velog.io/@leadbreak> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@leadbreak"> </a>
           </div>
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2> 
+    
     
