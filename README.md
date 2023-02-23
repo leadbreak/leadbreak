@@ -28,7 +28,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> <a href=https://qscar.notion.site/Q-d6514526a833470ebc2dc9603439ef22> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://qscar.notion.site/Q-d6514526a833470ebc2dc9603439ef22"> </a>
          <a href=https://thebeworld.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://thebeworld.tistory.com/"> </a>
-         <a href=https://velog.io/@leadbreak> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@leadbreak"> </a>
           </div>
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2> 
     
